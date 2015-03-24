@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <name>turtlebot_concert</name>
+  <version>0.0.0</version>
+  <description>
+    A solution for multi TurtleBot teloperation and navigation which can be used in a lab.
+  </description>
+
+  <maintainer email="jihoonlee.in@gmail.com">Jihoon Lee</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://wiki.ros.org/turtlebot_concert</url>
+  <url type="repository">https://github.com/turtlebot/turtlebot_concert</url>
+  <url type="bugtracker">https://github.com/turtlebot/turtlebot_concert/issues</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>concert_master</run_depend>
+  <run_depend>concert_service_admin</run_depend>
+  <run_depend>concert_service_teleop</run_depend>
+  <run_depend>concert_service_indoor_2d_map_prep</run_depend>
+</package>
