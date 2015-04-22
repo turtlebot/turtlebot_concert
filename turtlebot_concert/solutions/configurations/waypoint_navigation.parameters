@@ -1,0 +1,7 @@
+allocation_timeout: 45.0
+
+world: 'yujin_rnd'
+map_name: 'october'
+map_topic: '/map'
+waypoint_topic: 'waypoints'
+waypoint_viz_topic: 'waypoints_viz'

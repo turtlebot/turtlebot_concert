@@ -16,4 +16,7 @@
     <arg name="disable_zeroconf"              value="$(arg disable_zeroconf)"/>
     <arg name="enable_rosbridge"              value="$(arg enable_rosbridge)"/>
   </include>
+  <group ns="concert">
+    <node pkg="rocon_tf_reconstructor" name="rocon_tf_reconstructor" type="rocon_tf_reconstructor"/>
+  </group>
 </launch>
