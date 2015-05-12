@@ -2,8 +2,8 @@
 Changelog for package turtlebot_concert
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2015-05-12)
+------------------
 * typo in cmake
 * Contributors: Jihoon Lee
 

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>turtlebot_concert</name>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <description>
     A solution for multi TurtleBot teloperation and navigation which can be used in a lab.
   </description>
