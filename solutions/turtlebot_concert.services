@@ -10,6 +10,6 @@
 - resource_name: concert_service_teleop/teleop
   overrides:
     parameters: turtlebot_concert/teleop.parameters
-- resource_name: concert_service_indoor_2d_map_prep/indoor_2d_map_prep
-  overrides:
-    parameters: turtlebot_concert/indoor_2d_map_prep.parameters
+#- resource_name: concert_service_indoor_2d_map_prep/indoor_2d_map_prep
+#  overrides:
+#    parameters: turtlebot_concert/indoor_2d_map_prep.parameters
