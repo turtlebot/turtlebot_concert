@@ -2,8 +2,8 @@
 Changelog for package turtlebot_concert
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2015-07-28)
+------------------
 * comment out indoor 2dmap prep.
 * add missing overrides field
 * Contributors: Jihoon Lee
